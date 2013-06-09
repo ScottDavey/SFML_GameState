@@ -1,0 +1,90 @@
+﻿Build started 6/9/2013 12:59:34 PM.
+     1>Project "C:\Users\Scott Davey\Documents\Visual Studio 2010\Projects\SFML\GameStates\SFML_GameState\GameStates.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GameStates.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\SFML\SFML-2.0\include" /ZI /nologo /W4 /WX- /Od /Oy- /D SFML_DYNAMIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Background.cpp Camera.cpp Level.cpp main.cpp Midground.cpp Player.cpp Program.cpp StartMenu.cpp StartMenuBase.cpp StartMenu_Options.cpp StateThree.cpp StateTwo.cpp Tile.cpp
+         Tile.cpp
+         StateTwo.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\statetwo.cpp(20): warning C4100: 'time' : unreferenced formal parameter
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\statetwo.cpp(30): warning C4100: 'time' : unreferenced formal parameter
+         StateThree.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\statethree.cpp(20): warning C4100: 'time' : unreferenced formal parameter
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\statethree.cpp(30): warning C4100: 'time' : unreferenced formal parameter
+         StartMenu_Options.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\startmenu_options.cpp(76): warning C4244: 'argument' : conversion from 'float' to 'sf::Uint8', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\startmenu_options.cpp(86): warning C4100: 'elapsedime' : unreferenced formal parameter
+         StartMenuBase.cpp
+         StartMenu.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\startmenu.cpp(25): warning C4100: 'time' : unreferenced formal parameter
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\startmenu.cpp(59): warning C4100: 'time' : unreferenced formal parameter
+         Program.cpp
+         Player.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\player.cpp(26): warning C4100: 'time' : unreferenced formal parameter
+         Midground.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(59): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(100): warning C4100: 'time' : unreferenced formal parameter
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\midground.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         main.cpp
+         Level.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(115): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(122): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(122): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\level.cpp(108): warning C4100: 'time' : unreferenced formal parameter
+         Camera.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\camera.cpp(8): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\camera.cpp(8): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\camera.cpp(26): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\camera.cpp(26): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\camera.cpp(16): warning C4100: 'newPos' : unreferenced formal parameter
+         Background.cpp
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(59): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(100): warning C4100: 'time' : unreferenced formal parameter
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\scott davey\documents\visual studio 2010\projects\sfml\gamestates\sfml_gamestate\background.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\GameStates.exe.embed.manifest.res" Debug\GameStates_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Scott Davey\Documents\Visual Studio 2010\Projects\SFML\GameStates\SFML_GameState\Debug\GameStates.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML\SFML-2.0\lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GameStates.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Scott Davey\Documents\Visual Studio 2010\Projects\SFML\GameStates\SFML_GameState\Debug\GameStates.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Scott Davey\Documents\Visual Studio 2010\Projects\SFML\GameStates\SFML_GameState\Debug\GameStates.lib" /MACHINE:X86 Debug\GameStates.exe.embed.manifest.res
+         Debug\Background.obj
+         Debug\Camera.obj
+         Debug\Level.obj
+         Debug\main.obj
+         Debug\Midground.obj
+         Debug\Player.obj
+         Debug\Program.obj
+         Debug\StartMenu.obj
+         Debug\StartMenuBase.obj
+         Debug\StartMenu_Options.obj
+         Debug\StateThree.obj
+         Debug\StateTwo.obj
+         Debug\Tile.obj
+         LINK : C:\Users\Scott Davey\Documents\Visual Studio 2010\Projects\SFML\GameStates\SFML_GameState\Debug\GameStates.exe not found or not built by the last incremental link; performing full link
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GameStates.exe.embed.manifest" /manifest Debug\GameStates.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         GameStates.vcxproj -> C:\Users\Scott Davey\Documents\Visual Studio 2010\Projects\SFML\GameStates\SFML_GameState\Debug\GameStates.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GameStates.unsuccessfulbuild".
+         Touching "Debug\GameStates.lastbuildstate".
+     1>Done Building Project "C:\Users\Scott Davey\Documents\Visual Studio 2010\Projects\SFML\GameStates\SFML_GameState\GameStates.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.40
